@@ -47,7 +47,7 @@ For project management we are going to use Trello. The reason is it allows to cr
 
 For collaboration we will be using Github, the reason is that it is cloud based and can be easily accessed by many users simultaniously. Github allows forking repositories and cloning them to local machines, allows assigning different tasks for different users and tracking the performance. It also tracks the access rights and who can assign tasts to whom, making it more convenient to manage a large project. Github also allows to create branches, where each branch will represent a separate feature and then it allows assigning specific people to specific branches, track their performance and also merge the working code back to a master branch when ready.
 
-## **5 -- The Purpose of Developing Secure Password Vault App**
+## **5 - The Purpose of Developing Secure Password Vault App**
 
 The purpose of developing the secure password vault application is to allow a user to securely store numerous user names and passwords from many resources in one simple secure and remote location. This will allow the user to only memorize one user name and password and use it every time the user wants to be authenticated into a resource. This allows easier password management and actually allows to use safer and longer computer generated random passwords instead of short words, wbich can be easily remembered, but also easily hacked.
 
